@@ -64,7 +64,7 @@ Este proyecto analiza el desempeño comercial de RappiPlus mediante la integraci
 
 ## Dashboard
 
-![Dashboard]()
+![dashboard-resumen.png]()
 
 ## Estructura del Proyecto
 
